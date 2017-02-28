@@ -1,0 +1,14 @@
+{
+  "name": "lunch-lady",
+  "version": "1.0.0",
+  "description": "A slack bot to give Griffin lunch advice",
+  "author": "Ally",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.12.3",
+    "morgan": "^1.8.1"
+  }
+}
